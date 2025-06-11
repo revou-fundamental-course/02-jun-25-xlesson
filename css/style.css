@@ -210,7 +210,8 @@ header img:hover {
       width: 45%;
       border: 1px solid #000;
       padding: 15px;
-        background-color: #f9f9f9;
+    background-color: #f9f9f9;
+    tab-size: 10px;
     }
 .bungkus-pesan {
   display: flex;
@@ -249,6 +250,11 @@ header img:hover {
         font-size: 1.5rem;
     }
     .bulat-ruang {
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+    }
+    .bungkus-pesan {
         flex-direction: column;
         align-items: center;
         gap: 16px;
