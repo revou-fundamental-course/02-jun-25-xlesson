@@ -38,6 +38,7 @@ header img:hover {
   box-shadow: 0 2px 4px rgba(0,0,0,0.08);
   border: none;
   font-weight: bold;
+  font-size: 1.2rem;
 }
 .nav-btn:hover,
 .nav-btn:focus {
