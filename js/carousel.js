@@ -31,8 +31,6 @@ setInterval(() => showSlide(index + 1), 4000);
 
 // Inisialisasi
 showSlide(0);
-
-
 // popup
 window.addEventListener("DOMContentLoaded", function() {
   let nama = prompt("Masukkan nama Anda:", "Nama Anda");
