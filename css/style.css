@@ -235,11 +235,16 @@ header img:hover {
         align-items: center;
     }
     .panorama h1 {
-        font-size: 10px;
+        font-size: 15px;
         margin-left: auto;
         margin-right: auto;
         text-align: center;
 
+    }
+    .panorama p{
+        font-size: 14px;
+        margin-left: 20px;
+        margin-right: 20px;
     }
     nav a {
         font-size: 12px;
