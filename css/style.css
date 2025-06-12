@@ -229,7 +229,7 @@ header img:hover {
   flex: 1 1 0;
   max-width: 400px;
 }
-@media screen and (max-width: 960px) /* 
+@media screen and (max-width: 760px) /* 
     Fungsi: 
     Kode CSS ini mengatur gaya untuk tampilan responsif pada layar dengan lebar maksimum 700px.
     Ini mengubah tata letak header, ukuran font, dan ukuran tombol carousel untuk memastikan tampilan yang baik pada perangkat kecil.
@@ -263,6 +263,7 @@ header img:hover {
         flex-direction: column;
         align-items: center;
         gap: 16px;
+        width: 100%;
     }
     .bungkus-pesan {
         flex-direction: column;
