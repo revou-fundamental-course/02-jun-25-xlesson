@@ -194,11 +194,11 @@ header img:hover {
     font-size: 1.2rem;
     color: #333;
     text-align: center;
-    transition: background-color 0.3s ease;
+    margin: 20px auto;
     
 }
 .bulat-ruang img {
-     position:relative; /* Relative positioning for the circle */
+     position:relative; 
     width: 250px; 
     height: 250px;
     border-radius: 250%; 

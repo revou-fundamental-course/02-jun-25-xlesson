@@ -27,7 +27,7 @@ prevBtn.addEventListener('click', () => showSlide(index - 1));
 nextBtn.addEventListener('click', () => showSlide(index + 1));
 
 // Auto-slide
-setInterval(() => showSlide(index + 1), 4000);
+setInterval(() => showSlide(index + 1), 7000);
 // Inisialisasi
 showSlide(0);
 // popup
